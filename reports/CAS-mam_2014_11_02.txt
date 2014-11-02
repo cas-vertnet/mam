@@ -1,0 +1,168 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 230
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 2
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-15 ; Times: 3
+	Date: 2014-10-16 ; Times: 5
+	Date: 2014-10-17 ; Times: 8
+	Date: 2014-10-19 ; Times: 2
+	Date: 2014-10-20 ; Times: 5
+	Date: 2014-10-21 ; Times: 5
+	Date: 2014-10-22 ; Times: 14
+	Date: 2014-10-23 ; Times: 1
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-27 ; Times: 3
+	Date: 2014-10-28 ; Times: 7
+	Date: 2014-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "specificepithet:umbrinus genus:thomomys year >= 1900 year <= 2014 tissue:1" ; Times: 1
+	Query: "trichechus inunguis" ; Times: 2
+	Query: "Lepus insularis" ; Times: 1
+	Query: "speothos" ; Times: 1
+	Query: "testing" ; Times: 1
+	Query: "Mammuthus primigenius" ; Times: 3
+	Query: "meles meles" ; Times: 1
+	Query: "Spermophilus annulatus" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "litocranius" ; Times: 1
+	Query: "dwarf" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx tissue:1" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "Semnopithecus entellus" ; Times: 1
+	Query: "trichechus manatus" ; Times: 2
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "Antrozous pallidus indian" ; Times: 1
+	Query: "genus:Orcinus" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "Aplodontia rufa californica" ; Times: 1
+	Query: "acerodon jubatus" ; Times: 1
+	Query: "semnopithecus entellus" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 8
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 4
+	Query: "marmosa mexicana" ; Times: 3
+	Query: "Sylvilagus graysoni" ; Times: 1
+	Query: "blue whale" ; Times: 5
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Macaca mulatta mappable:1" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "balaenoptera musculus" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 166 download events in this period)
+Total number of records downloaded: 1713 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1616
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 1
+	Date: 2014-10-16 ; Times: 3
+	Date: 2014-10-20 ; Times: 3
+	Date: 2014-10-21 ; Times: 4
+	Date: 2014-10-22 ; Times: 11
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 7
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 2
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "class:Mammalia Martes pennanti" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "nasua narica country:"Mexico"" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "Artibeus toltecus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "stateprovince:"Indiana" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Lemmiscus class:Mammalia" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "Zacatecas Mammalia" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "Onychomys leucogaster mappable:1" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1203
+Total number of records retrieved from searches: 6197
+Number of download events that retrieved data from the resource: 491
+Total number of records downloaded: 102489
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1203
+Total number of records retrieved from searches: 6197
+Number of download events that retrieved data from the resource: 606
+Total number of records downloaded: 129856
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
