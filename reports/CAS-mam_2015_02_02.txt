@@ -1,0 +1,318 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 289
+Number of records retrieved in searches: 1404
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Egypt ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Kenya ; Times: 6
+	Country: Mexico ; Times: 16
+	Country: United Kingdom ; Times: 27
+	Country: United States ; Times: 221
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 2
+	Date: 2015-01-03 ; Times: 3
+	Date: 2015-01-04 ; Times: 4
+	Date: 2015-01-05 ; Times: 16
+	Date: 2015-01-06 ; Times: 8
+	Date: 2015-01-07 ; Times: 9
+	Date: 2015-01-08 ; Times: 13
+	Date: 2015-01-09 ; Times: 10
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-12 ; Times: 2
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-14 ; Times: 7
+	Date: 2015-01-15 ; Times: 19
+	Date: 2015-01-16 ; Times: 7
+	Date: 2015-01-17 ; Times: 3
+	Date: 2015-01-19 ; Times: 3
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 3
+	Date: 2015-01-23 ; Times: 7
+	Date: 2015-01-24 ; Times: 9
+	Date: 2015-01-25 ; Times: 7
+	Date: 2015-01-26 ; Times: 28
+	Date: 2015-01-27 ; Times: 38
+	Date: 2015-01-28 ; Times: 46
+	Date: 2015-01-29 ; Times: 38
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Leptonycteris nivalis" stateprovince:"Veracruz" country:"Mexico"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 2
+	Query: "tequila" ; Times: 2
+	Query: "Panthera tigris altaica mappable:1" ; Times: 1
+	Query: ""Dermoptera" mappable:1" ; Times: 2
+	Query: "27694 tissue:1" ; Times: 1
+	Query: ""panthera tigris" mappable:1" ; Times: 1
+	Query: ""Tremarctos ornatus"" ; Times: 3
+	Query: "Chinese Harbor" ; Times: 1
+	Query: "Aplodontia rufa stateprovince:"California"" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Nevada"" ; Times: 1
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "Lorisidae" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 46
+	Query: "Pteronura" ; Times: 1
+	Query: "type:specimen stateprovince:"nayarit" class:mammalia year >= 1968 year <= 1968" ; Times: 1
+	Query: "Mellivora capensis mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "lynx rufus country:"mexico"" ; Times: 1
+	Query: "Equus type:specimen (Skeleton)" ; Times: 1
+	Query: "Cynocephalus volans mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 77
+	Query: "Taxidea taxus county:"Kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "panthera onca" ; Times: 1
+	Query: ""Peromyscus leucopus" institutioncode:CAS year >= 1800 year <= 1890" ; Times: 1
+	Query: ""Peromyscus leucopus" stateprovince:"Minnesota" year >= 1800 year <= 1900" ; Times: 1
+	Query: "cynomys type:specimen class:mammalia year >= 1938 year <= 1938" ; Times: 1
+	Query: "dipodomys tank type:specimen county:"yuma"" ; Times: 1
+	Query: "genus:bubalus" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "orang utan" ; Times: 1
+	Query: ""Peromyscus leucopus" year >= 1800 year <= 1900" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 2
+	Query: "dermoptera type:specimen mappable:1" ; Times: 1
+	Query: ""Diceros bicornis" mappable:1" ; Times: 1
+	Query: "elephant shrew mappable:1" ; Times: 1
+	Query: ""Macroscelides micus" mappable:1" ; Times: 2
+	Query: "hippopotamus" ; Times: 1
+	Query: "class:Mammalia (Millard Utah) year >= 1929 year <= 1941" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maryland"" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "eumops perotis californicus county:"kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "Lou Island" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Megasorex gigas" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"North Carolina"" ; Times: 1
+	Query: "dipodomys type:specimen county:"cochise" (turkey) year >= 1970 year <= 1970" ; Times: 1
+	Query: "cygnus stateprovince:"California" country:"USA"" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:CAS" ; Times: 1
+	Query: ""Orcinus orca" mappable:1" ; Times: 1
+	Query: ""tremarctos ornatus"" ; Times: 2
+	Query: "fascicularis" ; Times: 2
+	Query: "Felis silvestris" ; Times: 2
+	Query: "institutioncode:CAS (8921) mappable:1" ; Times: 1
+	Query: "marmosa canescens" ; Times: 1
+	Query: "sengi" ; Times: 1
+	Query: "lepus americanus (Washington OR Oregon) AND (NOT Alaska) year >= 1940 year <= 1960" ; Times: 1
+	Query: ""Peromyscus leucopus" institutioncode:CAS year >= 1800 year <= 1900" ; Times: 1
+	Query: ""sciurus griseus" type:specimen (baculum)" ; Times: 2
+	Query: "zalophus californianus country:"Mexico"" ; Times: 1
+	Query: "Lorisidae mappable:1" ; Times: 22
+	Query: "Dipodomys ingens county:"Kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: "panthera leo" ; Times: 6
+	Query: "rodentia county:"Beaver" stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 1
+	Query: "ammospermophilus nelsoni" ; Times: 1
+	Query: "Aplodontia rufa californica" ; Times: 1
+	Query: "lepus americanus year >= 1850 year <= 1900 distance(location,geopoint(45.24395342262327,-119.94873046875))<343590" ; Times: 1
+	Query: "alvarezi" ; Times: 1
+	Query: "Potos flavus distance(location,geopoint(23.079731762449878,-103.974609375))<985862" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Ocotlan stateprovince:"Jalisco"" ; Times: 1
+	Query: "Lepus americanus (Washington OR Oregon) year >= 1880 year <= 1900" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: ""Peromyscus leucopus" institutioncode:CAS" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "lepus americanus (Washington OR Oregon) year >= 1850 year <= 1900" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 1
+	Query: "lutra" ; Times: 2
+	Query: ""dermoptera" mappable:1" ; Times: 4
+	Query: "dermoptera" ; Times: 4
+	Query: ""Molossus aztecus" mappable:1" ; Times: 1
+	Query: ""sciurus griseus" type:specimen stateprovince:"California" (baculum)" ; Times: 2
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "sheep type:specimen genus:Ovis" ; Times: 3
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maine"" ; Times: 1
+	Query: ""Prionailurus viverrinus"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Oklahoma"" ; Times: 1
+	Query: "institutioncode:CAS (8921)" ; Times: 1
+	Query: "spermophilus major" ; Times: 1
+	Query: "lepus americanus year >= 1850 year <= 1900" ; Times: 1
+	Query: "dipodomys type:specimen stateprovince:"arizona" class:mammalia year >= 1961 year <= 1961" ; Times: 1
+	Query: "theropithecus gelada" ; Times: 1
+	Query: "Lepus americanus (Washington OR Oregon) year >= 1940 year <= 1960" ; Times: 1
+	Query: "lariscus insignis" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:hanna" ; Times: 2
+	Query: "Panthera tigris" ; Times: 1
+	Query: "dipodomys type:specimen county:"cochise" year >= 1970 year <= 1970" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"New Brunswick"" ; Times: 1
+	Query: "Aethomys tissue:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "marmota bobak" ; Times: 2
+	Query: "panthera pardus" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "lepus americanus (Washington OR Oregon) year >= 1880 year <= 1900" ; Times: 2
+	Query: "moyahua zacatecas" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Tylomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 445 download events in this period)
+Total number of records downloaded: 14440 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11390
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 38
+	Country: United States ; Times: 54
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-03 ; Times: 13
+	Date: 2015-01-04 ; Times: 23
+	Date: 2015-01-05 ; Times: 4
+	Date: 2015-01-06 ; Times: 5
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-09 ; Times: 5
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-19 ; Times: 3
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-26 ; Times: 11
+	Date: 2015-01-27 ; Times: 7
+	Date: 2015-01-28 ; Times: 11
+	Date: 2015-01-29 ; Times: 7
+	Date: 2015-01-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Eira barbara" ; Times: 2
+	Query: "country:"Canada" specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "jalpa zacatecas" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Inia" ; Times: 1
+	Query: "moyahua zacatecas" ; Times: 1
+	Query: "county:"Millard" stateprovince:"Utah" class:Mammalia year >= 1928 year <= 1939" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "dermoptera type:specimen mappable:1" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "peromyscus (mexico)" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "zalophus californianus country:"Mexico"" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Diprotodontia mappable:1" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: "Myotis lucifugus nevada" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: ""ochotona princeps"" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia year <= 2014" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "Felidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "perognathus inornatus inornatus county:"kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maine"" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "Cuniculidae" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Ammospermophilus nelsoni county:"Kern" year >= 1900 year <= 2015" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Clethrionomys rutilus" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 13
+	Query: ""Microtus pennsylvanicus" stateprovince:"North Carolina"" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:mammalia" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "mustelidae country:"Mexico" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "Sciurus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Oklahoma"" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Mephitis macroura" ; Times: 1
+	Query: ""Microtus pennsylvanicus" stateprovince:"Maryland"" ; Times: 2
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: ""dermoptera" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1366
+Total number of records retrieved from searches: 7069
+Number of download events that retrieved data from the resource: 113
+Total number of records downloaded: 14440
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1655
+Total number of records retrieved from searches: 8473
+Number of download events that retrieved data from the resource: 799
+Total number of records downloaded: 148257
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
