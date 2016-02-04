@@ -1,0 +1,241 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 228
+Number of records retrieved in searches: 1390
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 94
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 106
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 8
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 13
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-08 ; Times: 7
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-14 ; Times: 36
+	Date: 2016-01-22 ; Times: 6
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-19 ; Times: 27
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-10 ; Times: 5
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 30
+	Date: 2016-01-27 ; Times: 8
+	Date: 2016-01-31 ; Times: 7
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-18 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Zalophus preparations:SK institutioncode:CAS" ; Times: 1
+	Query: "cas 27196" ; Times: 2
+	Query: "Phocoenoides type:specimen AND (skeleton)" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "&#34;Procavia capensis&#34; mappable:1" ; Times: 1
+	Query: "cas 13418" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "leucistic" ; Times: 1
+	Query: "cas 13417" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:&#34;mexico&#34; year &gt;= 1960 year &lt;= 2015" ; Times: 5
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "Muridae type:specimen country:&#34;USA&#34; (skeleton)" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skull)" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "locality:Carmen stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "genus:Equus" ; Times: 1
+	Query: "Galea" ; Times: 1
+	Query: "cas 14120" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Balaenoptera physalus California" ; Times: 2
+	Query: "oryzomys chapmani" ; Times: 45
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "cas 27277" ; Times: 2
+	Query: "oryzomys chapmani country:&#34;mexico&#34;" ; Times: 1
+	Query: "sundamys" ; Times: 1
+	Query: "Zapus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "mephitis mephitis los angeles" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "Inia type:specimen AND (NOT skeleton)" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34;" ; Times: 1
+	Query: "sorex ornatus baja" ; Times: 1
+	Query: "cas 13639" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 8
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Loxodonta &#34;africana&#34; mappable:1" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "dipodomys heermanni (Kern County)" ; Times: 2
+	Query: "Suricatta" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "cas 13583" ; Times: 2
+	Query: "cas 13587" ; Times: 1
+	Query: "order:Chiroptera class:Mammalia stateprovince:&#34;Nevada&#34; continent:North America institutioncode:CAS" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "cas 2802" ; Times: 1
+	Query: "cas 14118" ; Times: 2
+	Query: "Sciurus griseus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Phocoenoides type:specimen institutioncode:CAS" ; Times: 1
+	Query: "notiosorex crawfordi mexico" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 5
+	Query: "gbifdatasetid:6ce7290f-47f6-4046-8356-371f5b6749df" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 51
+	Query: "Inia type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "cas 17539" ; Times: 1
+	Query: "Inia geoffrensis type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "Zalophus preparations:SK institutioncode:CAS tissue:1" ; Times: 1
+	Query: "order:Chiroptera class:Mammalia stateprovince:&#34;Nevada&#34; continent:North America year &gt;= 1969 year &lt;= 2015 institutioncode:CAS" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "connochaetes" ; Times: 1
+	Query: "cas 27235" ; Times: 1
+	Query: "right whale" ; Times: 1
+	Query: "cas 13476" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Dipodomys merriami county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Oncifelis geoffroyi" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "CAS 5276" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 507 download events in this period)
+Total number of records downloaded: 13716
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: United States ; Times: 43
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 5
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 5
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "Inia geoffrensis type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "oryzomys chapmani" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34; (skeleton)" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Oncifelis geoffroyi" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "Caracal caracal" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
