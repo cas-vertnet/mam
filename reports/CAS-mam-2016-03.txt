@@ -1,0 +1,125 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 299
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 21
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 3
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:arctos stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "babyrousa" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:primates stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:procyonidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:adustus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "notiosorex baja california sur" ; Times: 2
+	Query: "specificepithet:jacksoni genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Neotamias stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:felis family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dipodomys ingens year &gt;= 1800 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "29992" ; Times: 2
+	Query: "Ichneumia" ; Times: 2
+	Query: "Babyrousa" ; Times: 1
+	Query: "gbifdatasetid:6ce7290f-47f6-4046-8356-371f5b6749df" ; Times: 1
+	Query: "U vert" ; Times: 1
+	Query: "&#34;W.E.D. Scott&#34;" ; Times: 1
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Gerbillurus setzeri" ; Times: 1
+	Query: "lama glama" ; Times: 2
+	Query: "genus:Blarinella country:&#34;China&#34;" ; Times: 5
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 1
+	Query: "genus:civettictis family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:rhinolophus order:chiroptera class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 230 download events in this period)
+Total number of records downloaded: 68892
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 46
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 14
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "soriculus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "Indian Cove stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
