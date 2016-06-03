@@ -1,0 +1,164 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 4046
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 94
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 7
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 8
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-31 ; Times: 55
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 3
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 13
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 4
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "Canis Latrans type:specimen year &gt;= 1670 year &lt;= 1900" ; Times: 1
+	Query: "peromyscus maniculatus yuma arizona" ; Times: 2
+	Query: "Sus scrofa " ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Marmota sibirica" ; Times: 3
+	Query: "Dipodomys heermanni tissue:1" ; Times: 3
+	Query: "Lophiomys 12212" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "panthera leo" ; Times: 5
+	Query: "Gulo weight" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "nesoryzomys indefessus" ; Times: 3
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "distance(location,geopoint(27.223036,-112.919516))&lt;15000" ; Times: 2
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "genus:Sorex county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.301036,-112.763516))&lt;15000" ; Times: 1
+	Query: "genus:Balaenoptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "aplodontia county:&#34;tulare&#34;" ; Times: 2
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "Dipodomys heermanni institutioncode:CAS" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "CAS 18076" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Marmota bobak" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "sphiggurus" ; Times: 1
+	Query: "notiosorex california" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "amanita" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 8
+	Query: "panthera onca}" ; Times: 2
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "specificepithet:sinus genus:Phocoena" ; Times: 5
+	Query: "specificepithet:capensis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "panthera onca" ; Times: 1
+	Query: "primate" ; Times: 3
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "panthera tigris tissue:1" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus county:&#34;San Diego&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 327 download events in this period)
+Total number of records downloaded: 16779
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-31 ; Times: 33
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "Dipodomys heermanni tissue:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Antrozous county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
