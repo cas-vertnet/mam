@@ -1,0 +1,374 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 343
+Number of records retrieved in searches: 2729
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 26
+	Country: Mexico ; Times: 104
+	Country: Unknown ; Times: 7
+	Country: Costa Rica ; Times: 13
+	Country: France ; Times: 2
+	Country: United States ; Times: 168
+	Country: Netherlands ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 7
+	Date: 2016-06-23 ; Times: 13
+	Date: 2016-06-22 ; Times: 11
+	Date: 2016-06-21 ; Times: 39
+	Date: 2016-06-20 ; Times: 41
+	Date: 2016-06-05 ; Times: 7
+	Date: 2016-06-04 ; Times: 12
+	Date: 2016-06-07 ; Times: 6
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-01 ; Times: 45
+	Date: 2016-06-03 ; Times: 10
+	Date: 2016-06-02 ; Times: 16
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-08 ; Times: 15
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-19 ; Times: 11
+	Date: 2016-06-16 ; Times: 22
+	Date: 2016-06-17 ; Times: 10
+	Date: 2016-06-14 ; Times: 19
+	Date: 2016-06-15 ; Times: 12
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 23
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "(ovis ammon) mappable:1" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "oncifelis" ; Times: 4
+	Query: "Connochaetes" ; Times: 1
+	Query: "microtus montebelli" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "bison bison   " ; Times: 9
+	Query: "specificepithet:amoenus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Gambel AND Island" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Gray Fox&#34; OR &#34;Urocyon cinereoargenteus&#34;) mappable:1" ; Times: 1
+	Query: "Lasiurus AND California AND Island" ; Times: 1
+	Query: "ochotona princeps new mexico" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:umbrinus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 3
+	Query: "Isla Natividad Mexico AND 1922" ; Times: 1
+	Query: "specificepithet:dorsalis genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "canis mesomelas" ; Times: 3
+	Query: "CAS 922" ; Times: 2
+	Query: "Panthera onca" ; Times: 6
+	Query: "sylvilagus floridanus year &lt;= 1900" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1905" ; Times: 1
+	Query: "phocoena sinus" ; Times: 1
+	Query: "alces alces   " ; Times: 9
+	Query: "8442 mammalia" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "loxodonta africana" ; Times: 4
+	Query: "specificepithet:ochrogenys genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "genus:tamandua country:mexico" ; Times: 1
+	Query: "county:&#34;San Bernardino&#34; recordedby:Banta (Pisgah) year &gt;= 1950 year &lt;= 1965" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "euderma" ; Times: 1
+	Query: "galea musteloides" ; Times: 4
+	Query: "megasorex gigas" ; Times: 2
+	Query: "Aethomys granti" ; Times: 1
+	Query: "globicephala california" ; Times: 2
+	Query: "varecia" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:senex genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "lycaon pictus" ; Times: 3
+	Query: "Rattus norvegicus" ; Times: 5
+	Query: "specificepithet:siskiyou genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "Lasiurus AND California AND Island NOT Ecuador NOT Grizzly" ; Times: 1
+	Query: "specificepithet:merriami genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "CAS-72648" ; Times: 1
+	Query: "Sphiggurus" ; Times: 3
+	Query: "tursiops los angeles" ; Times: 1
+	Query: "panthera pardus year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "proteles" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "merriami parvus" ; Times: 1
+	Query: "sorex ornatus baja california" ; Times: 8
+	Query: "Dusicyon australis" ; Times: 2
+	Query: "distance(location,geopoint(29.052968490948874,-113.84033203125))&lt;27065" ; Times: 1
+	Query: "specificepithet:townsendii genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "witch" ; Times: 6
+	Query: "11899" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "Ammotragus lervia 1" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Eptesicus AND Island AND California" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "27097" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Pallid Bat&#34; OR &#34; Antrozous pallidus&#34;) mappable:1" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Macaca sylvanus 1" ; Times: 2
+	Query: "Cooper AND Cruz NOT Arizona" ; Times: 1
+	Query: "sylvilagus floridanus stateprovince:&#34;New York&#34; year &lt;= 1900" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "specificepithet:fuscus genus:eptesicus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "specificepithet:obscurus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "J. W. Miller institutioncode:CAS" ; Times: 1
+	Query: "Isla Natividad Mexico" ; Times: 2
+	Query: "Phascolarctos institutioncode:CAS" ; Times: 4
+	Query: "locality:laurel county:&#34;mono&#34;" ; Times: 1
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "Lasiurus AND California AND Island NOT Ecuador" ; Times: 1
+	Query: "speothos venaticus" ; Times: 2
+	Query: "genus:sorex stateprovince:&#34;california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "Myotis AND Catalina ISland" ; Times: 1
+	Query: "sorex ornatus juncensis" ; Times: 1
+	Query: "Atelerix" ; Times: 3
+	Query: "ovibos" ; Times: 3
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 13
+	Query: "specificepithet:striatus genus:tamias institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:speciosus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb" ; Times: 1
+	Query: "specificepithet:sibiricus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 2
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "Herpestes ichneumon 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "Balaenoptera physalus" ; Times: 5
+	Query: "Dama dama 1" ; Times: 2
+	Query: "genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "Lasiurus AND CALIFORNIA AND Island" ; Times: 1
+	Query: "specificepithet:bulleri genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34; institutioncode:CAS" ; Times: 1
+	Query: "Sphiggurus mexicanus mexicanus" ; Times: 1
+	Query: "canis adustus" ; Times: 5
+	Query: "Gerbillurus setzeri" ; Times: 2
+	Query: "Platanista gangetica" ; Times: 1
+	Query: "locality:Rock Creek county:&#34;Mono&#34;" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb NOT Fish" ; Times: 2
+	Query: "locality:Saddlebag county:&#34;Mono&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34; institutioncode:CAS" ; Times: 1
+	Query: "tachyoryctes" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Sturnira institutioncode:CAS" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "sylvilagus floridanus stateprovince:&#34;New York&#34; year &lt;= 1920" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 2
+	Query: "genus:Bison" ; Times: 1
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "a.w. anthony" ; Times: 1
+	Query: "Oligoryzomys destructor" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "neotoma fuscipes st*" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "Isla Margarita AND Mexico" ; Times: 2
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phocoena sinus" ; Times: 1
+	Query: "genus:bison" ; Times: 5
+	Query: "saimiri oerstedii" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "elephas" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "genus:sorex stateprovince:&#34;baja california&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "lagenorhynchus california" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "specificepithet:minimus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 4
+	Query: "genus:canis" ; Times: 1
+	Query: "Lasiurus cinereus AND CALIFORNIA AND Island" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "panthera pardus" ; Times: 4
+	Query: "canis lupus   " ; Times: 8
+	Query: "25087" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "Procyon lotor 1" ; Times: 4
+	Query: "MYOTIS AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:alpinus genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:sonomae genus:neotamias institutioncode:CAS" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 6
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 183 (out of 1052 download events in this period)
+Total number of records downloaded: 6544
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 73
+	Country: Unknown ; Times: 10
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 96
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-08 ; Times: 12
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-01 ; Times: 6
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 7
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 6
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 12
+	Date: 2016-06-17 ; Times: 15
+	Date: 2016-06-14 ; Times: 16
+	Date: 2016-06-15 ; Times: 15
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 32
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "microtus montebelli" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Chiroptera type:specimen country:&#34;Ghana&#34;" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Gray Fox&#34; OR &#34;Urocyon cinereoargenteus&#34;) mappable:1" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "deserticola specificepithet:californicus genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "phocoena sinus" ; Times: 1
+	Query: "dipodomys microps" ; Times: 2
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "wallabia bicolor" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Pallid Bat&#34; OR &#34; Antrozous pallidus&#34;) mappable:1" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "erethizon" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "cottonwood springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Castor (California)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "neotoma bryanti" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "canis latrans" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "nasua nasua" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus townsendii" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "sorex ornatus baja california" ; Times: 1
+	Query: "Phocoena sinus" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "peromyscus furvus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Sorex stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "panthera pardus" ; Times: 1
+	Query: "Canis Lupus baileyi" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+
+
+End of report.
