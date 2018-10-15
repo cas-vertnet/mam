@@ -1,0 +1,946 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2184
+Number of records retrieved in searches: 26495
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 12
+	Country: Italy ; Times: 17
+	Country: Unknown ; Times: 30
+	Country: Luxembourg ; Times: 9
+	Country: France ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: Guatemala ; Times: 5
+	Country: China ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 5
+	Country: Denmark ; Times: 213
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 1703
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 124
+	Country: United Kingdom ; Times: 30
+	Country: Colombia ; Times: 9
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 32
+	Date: 2018-01-18 ; Times: 42
+	Date: 2018-01-31 ; Times: 103
+	Date: 2018-01-30 ; Times: 67
+	Date: 2018-01-11 ; Times: 58
+	Date: 2018-01-10 ; Times: 21
+	Date: 2018-01-13 ; Times: 22
+	Date: 2018-01-12 ; Times: 63
+	Date: 2018-01-15 ; Times: 96
+	Date: 2018-01-14 ; Times: 52
+	Date: 2018-01-17 ; Times: 49
+	Date: 2018-01-16 ; Times: 117
+	Date: 2018-01-24 ; Times: 269
+	Date: 2018-01-25 ; Times: 289
+	Date: 2018-01-08 ; Times: 21
+	Date: 2018-01-09 ; Times: 25
+	Date: 2018-01-28 ; Times: 24
+	Date: 2018-01-29 ; Times: 28
+	Date: 2018-01-02 ; Times: 43
+	Date: 2018-01-03 ; Times: 10
+	Date: 2018-01-26 ; Times: 37
+	Date: 2018-01-01 ; Times: 8
+	Date: 2018-01-06 ; Times: 20
+	Date: 2018-01-21 ; Times: 58
+	Date: 2018-01-22 ; Times: 134
+	Date: 2018-01-07 ; Times: 10
+	Date: 2018-01-04 ; Times: 32
+	Date: 2018-01-05 ; Times: 9
+	Date: 2018-01-23 ; Times: 398
+	Date: 2018-01-27 ; Times: 20
+	Date: 2018-01-20 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "D. virginiana Didelphis virginiana mappable:1" ; Times: 3
+	Query: "10299" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Kern&#34;" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "monodelphis cas" ; Times: 2
+	Query: "&#34;Bassariscus astutus&#34; mappable:1" ; Times: 3
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 9
+	Query: "Prionailurus" ; Times: 1
+	Query: "cephalophus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "Didelphis mappable:1" ; Times: 5
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "alces alces mappable:1" ; Times: 1
+	Query: "cephalophus leucogaster" ; Times: 2
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "distance(location,geopoint(43.677436453,-72.706788479))&lt;10930" ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;dorsatum&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 2
+	Query: "Peromyscus levipes" ; Times: 1
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 5
+	Query: "Elephas maximus mappable:1" ; Times: 1
+	Query: "sturnira ludovici" ; Times: 1
+	Query: "&#34;PANTHERA PARDUS&#34; mappable:1" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 27
+	Query: "Alces alces gigas mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Panthera tigris longipilis" ; Times: 3
+	Query: "Bison" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "Cryptotis mam" ; Times: 1
+	Query: "Phoca hispida " ; Times: 2
+	Query: "Phoca vitulina " ; Times: 2
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "Cervus nippon" ; Times: 1
+	Query: "martes americana" ; Times: 2
+	Query: "panthera onca" ; Times: 3
+	Query: "Elephas maximus maximus mappable:1" ; Times: 2
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "mammal" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Turkey" ; Times: 1
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus county:&#34;Coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Myotis Californicus" ; Times: 2
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Panthera tigris sumatrae" ; Times: 6
+	Query: "(&#34;Erethizon dorsatum&#34;) mappable:1" ; Times: 1
+	Query: "&#34;puma concolor&#34; mappable:1" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 1
+	Query: "isla san jose" ; Times: 1
+	Query: "balaenoptera Physalus" ; Times: 4
+	Query: "Ovibos" ; Times: 3
+	Query: "Leporidae" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "11682" ; Times: 1
+	Query: "Prairie dog" ; Times: 3
+	Query: "genus:Ursus stateprovince:(california OR florida)" ; Times: 30
+	Query: "(dermoptera ) mappable:1" ; Times: 2
+	Query: "order:Lagomorpha" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "(erethizon) mappable:1" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 2
+	Query: "erethizon dorsatum mappable:1" ; Times: 26
+	Query: "guejito" ; Times: 1
+	Query: "Cervus elaphus canadensis" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CAS:MAM:27454&#34;" ; Times: 4
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 28
+	Query: "genus:Lynx county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34;" ; Times: 1
+	Query: "specificepithet:aethiops genus:chlorocebus country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "20821" ; Times: 1
+	Query: "(Erethizon dorsatum)" ; Times: 1
+	Query: "Panthera pardus delacouri" ; Times: 2
+	Query: "Macaca" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 9
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 58
+	Query: "Ceratotherium simum institutioncode:CAS" ; Times: 1
+	Query: "Alces alces andersoni" ; Times: 5
+	Query: "&#34;dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "(Panthera onca) mappable:1" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "&#34;Panthera&#34; &#34;tigris&#34; mappable:1" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "&#34;Dipodomys californicus&#34; mappable:1" ; Times: 1
+	Query: "Mirounga angustirostris " ; Times: 2
+	Query: "Bison bison" ; Times: 2
+	Query: "mustela specificepithet:(nivalis OR erminea)" ; Times: 2
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 2
+	Query: "atelerix albiventris mappable:1" ; Times: 1
+	Query: "Sturnira parvidens" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "(dermoptera) mappable:1" ; Times: 12
+	Query: "(cynocephalidae) mappable:1" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Enhydra lutris nereis " ; Times: 2
+	Query: "Panthera tigris altaica" ; Times: 3
+	Query: "natator" ; Times: 1
+	Query: "bos gaurus" ; Times: 2
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 9
+	Query: "Anoura geoffroyi" ; Times: 1
+	Query: "MVZ" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 160
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Alces alces" ; Times: 6
+	Query: "Leptonycteris nivalis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "opossum mappable:1" ; Times: 4
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "&#34;Didelphis Virginiana&#34; mappable:1" ; Times: 4
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "genus:Odocoileus family:Cervidae" ; Times: 1
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CAS:MAM:26405&#34;" ; Times: 4
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 2
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "&#34;Dasypodidae&#34; mappable:1" ; Times: 4
+	Query: "Dipodomys nelsoni" ; Times: 4
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "CAS 21221" ; Times: 2
+	Query: "(Didelphis) mappable:1" ; Times: 1
+	Query: "manis pentadactyla mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "(&#34;didelphis virginiana&#34; ) mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:canis institutioncode:CAS hastissue:1" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 4
+	Query: "stateprovince:&#34;oklahoma&#34;" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:CAS:MAM:21163&#34;" ; Times: 4
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "specificepithet:Rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "2808 vntype:specimen" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "Rana montezumae hassex:1" ; Times: 2
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "macaca nemestrina continent:asia" ; Times: 1
+	Query: "genus:Dasypus mappable:1" ; Times: 1
+	Query: "Capra nubiana" ; Times: 4
+	Query: "Dermoptera" ; Times: 20
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "procyon lotor mappable:1" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 4
+	Query: "genus:Zapus" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Castor canadensis" ; Times: 2
+	Query: "canis latrans" ; Times: 2
+	Query: "genus:Didelphis mappable:1" ; Times: 2
+	Query: "Microtus californicus" ; Times: 1
+	Query: "genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dipodomys vntype:specimen" ; Times: 2
+	Query: "(&#34;erethizon dorsatum&#34;) mappable:1" ; Times: 2
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "genus:catagonus institutioncode:CAS" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "order:lagomorpha stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Platanista gangetica " ; Times: 2
+	Query: "didelphis cas" ; Times: 2
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;Dorsatum&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:lilium genus:Sturnira country:&#34;mexico&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 6
+	Query: "specificepithet:aethiops genus:chlorocebus country:&#34;kenya&#34;" ; Times: 2
+	Query: "distance(location,geopoint(41.8351487459,-73.4874272519999))&lt;9409" ; Times: 2
+	Query: "Physeter catodon " ; Times: 2
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "genus:ochotona stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus" ; Times: 1
+	Query: "macaca mulatta continent:asia" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "(Cynocephalidae)" ; Times: 1
+	Query: "(opossum) mappable:1" ; Times: 4
+	Query: "Oklahoma" ; Times: 2
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 4
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "berylmys" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "didelphis Virginiana mappable:1" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "didelphis virginianus" ; Times: 1
+	Query: "Inia geoffrensis " ; Times: 2
+	Query: "Nasua narica" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "Vulpes vulpes bangsi" ; Times: 1
+	Query: "phocidae" ; Times: 1
+	Query: "elephas mappable:1" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "Cricetidae" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "&#34;ERETHIZON DORSATUM&#34; mappable:1" ; Times: 1
+	Query: "Erignathus barbatus " ; Times: 2
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dipodomys" ; Times: 4
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "weight" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Atlantoxerus getulus" ; Times: 4
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 26
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "&#34;Mellivora&#34; &#34;capensis&#34; mappable:1" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "specificepithet:senegalensis genus:galago country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "oklahoma" ; Times: 2
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "genus:peromyscus county:&#34;coconino&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Sylvilagus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 4
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "naches river" ; Times: 1
+	Query: "Morro" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Enhydra lutris " ; Times: 2
+	Query: "Panthera tigris" ; Times: 3
+	Query: "preparations:alc institutioncode:CAS" ; Times: 2
+	Query: "class:mammalia institutioncode:CAS" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "&#34;Odocoileus hemionus&#34; mappable:1" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 5
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 6
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;kern&#34;" ; Times: 1
+	Query: "Sorex ornatus juncensis" ; Times: 4
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "Ailuropoda" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "White Tiger mappable:1" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Diceros bicornis mappable:1" ; Times: 1
+	Query: "Alces alces alces" ; Times: 4
+	Query: "Eira barbara" ; Times: 1
+	Query: "Vampyressa thyone" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "&#34;Megaptera novaeangliae&#34; mappable:1" ; Times: 1
+	Query: "hippopotamus amphibius mappable:1" ; Times: 1
+	Query: "&#34;Ursus arctos&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.0529880055,-72.52838754025))&lt;24385" ; Times: 2
+	Query: "Erethizon mappable:1" ; Times: 5
+	Query: "Dasypus mappable:1" ; Times: 4
+	Query: "panthera leo" ; Times: 2
+	Query: "&#34;Didelphis&#34; &#34;Virginiana&#34;" ; Times: 1
+	Query: "Rana montezumae" ; Times: 2
+	Query: "Saccopteryx bilineata" ; Times: 3
+	Query: "canis latrans institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Callorhinus ursinus " ; Times: 2
+	Query: "Sciurus niger" ; Times: 2
+	Query: "Micronycteris megalotis" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "genus:Macaca nemestrina" ; Times: 21
+	Query: "opossum" ; Times: 5
+	Query: "erethizon Dorsatum mappable:1" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34; mappable:1" ; Times: 2
+	Query: "Papio mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 2
+	Query: "iguana iguana" ; Times: 1
+	Query: "vntype:specimen specificepithet:nemestrina genus:Macaca" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "order:Primates institutioncode:CAS" ; Times: 3
+	Query: "family:sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Didelphis virginiana mappable:1" ; Times: 31
+	Query: "specificepithet:mulatta genus:Macaca" ; Times: 1
+	Query: "order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "genus:Erethizon mappable:1" ; Times: 2
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "vntype:specimen specificepithet:brasiliensis genus:tadarida (skin)" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 2
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "(Giraffa camelopardalis) mappable:1" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "dermoptera year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "seorsus" ; Times: 1
+	Query: "&#34;Panthera Tigris&#34; mappable:1" ; Times: 4
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "Equus caballus" ; Times: 3
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "ursus thibetanus continent:asia" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "(&#34;didelphis virginiana&#34;) mappable:1" ; Times: 3
+	Query: "Erethizon dorsatum mappable:1" ; Times: 27
+	Query: "Lissodelphis borealis " ; Times: 2
+	Query: "Delphinapterus leucas " ; Times: 2
+	Query: "&#34;Didelphis&#34; &#34;Virginiana&#34; mappable:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "Pongo pygmaeus mappable:1" ; Times: 1
+	Query: "vulpes macrotis institutioncode:CAS" ; Times: 2
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus" ; Times: 1
+	Query: "Lepus alleni" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 6
+	Query: "&#34;Elephas maximus&#34; mappable:1" ; Times: 2
+	Query: "&#34;puma concolor&#34;" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 2
+	Query: "&#34;ursus arctos&#34; mappable:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34; institutioncode:CAS" ; Times: 2
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "vntype:specimen genus:Macaca institutioncode:CAS" ; Times: 1
+	Query: "vulpes macrotis" ; Times: 2
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "Molossus molossus" ; Times: 1
+	Query: "vntype:specimen hasmass:1 &#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Panthera leo krugeri" ; Times: 3
+	Query: "Natalus mexicanus" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 6
+	Query: "Balaenoptera physalus " ; Times: 4
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "cryptotis" ; Times: 1
+	Query: "(erethizon dorsatum) mappable:1" ; Times: 3
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Equus przewalskii" ; Times: 2
+	Query: "&#34;Tapirus bairdii&#34; mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; institutioncode:CAS" ; Times: 1
+	Query: "muntiacus muntjak continent:asia" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 4
+	Query: "Trichechus inunguis mappable:1" ; Times: 1
+	Query: "E. Dorsatum mappable:1" ; Times: 1
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "genus:Macaca" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 11
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "erethizon mappable:1" ; Times: 5
+	Query: "Macaca sylvanus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34;" ; Times: 3
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Didelphis virginiana" ; Times: 12
+	Query: "&#34;Striped bass&#34;" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "(dermoptera)" ; Times: 3
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 136
+	Query: "didelphis virginiana continent:North America mappable:1" ; Times: 2
+	Query: "Ursus maritimus " ; Times: 2
+	Query: "Vulpes macrotis mappable:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "(Erethizon) mappable:1" ; Times: 1
+	Query: "erethizon dorsatum class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "genus:Lasionycteris" ; Times: 1
+	Query: "class:mammalia country:&#34;vietnam&#34;" ; Times: 1
+	Query: "(panthera pardus orientalis) mappable:1" ; Times: 5
+	Query: "&#34;DIDELPHIS VIRGINIANA&#34; mappable:1" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Nevada&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "&#34;erethizon&#34; &#34;dorsatum&#34; mappable:1" ; Times: 3
+	Query: "Dasypus Novemcinctus" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "29233" ; Times: 3
+	Query: "(Acinonyx jubatus) mappable:1" ; Times: 1
+	Query: "marine mammal parasites" ; Times: 2
+	Query: "Alces alces gigas" ; Times: 4
+	Query: "Rhynchocyon petersi mappable:1" ; Times: 1
+	Query: "Dermoptera continent:asia mappable:1" ; Times: 1
+	Query: "blarina brevicauda" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "order:rodentia class:mammalia 23608" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "baboon" ; Times: 1
+	Query: "spermophilus lateralis" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "Philander opossum" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34;" ; Times: 1
+	Query: "octodon" ; Times: 1
+	Query: "class:Mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "Equus asinus" ; Times: 1
+	Query: "Eschrichtius robustus " ; Times: 6
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "genus:Puma family:Felidae order:Carnivora class:Mammalia" ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;dorsatum&#34; mappable:1" ; Times: 3
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "ursus maritimus mappable:1" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "genus:Peromyscus order:Rodentia stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 58
+	Query: "(panda) mappable:1" ; Times: 1
+	Query: "(caracal caracal) mappable:1" ; Times: 1
+	Query: "martes pennanti" ; Times: 9
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "&#34;Odobenus rosmarus&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 13
+	Query: "specificepithet:latrans genus:Canis country:&#34;USA&#34; mappable:1" ; Times: 1
+	Query: "dermoptera year &lt;= 1970" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "genus:ochrotomys class:Mammalia stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "&#34;Didelphis&#34; mappable:1" ; Times: 2
+	Query: "gazella dorcas" ; Times: 1
+	Query: "&#34;panthera leo&#34; mappable:1" ; Times: 1
+	Query: "genus:Urocyon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(caracal) mappable:1" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 59
+	Query: "Myotis sodalis mappable:1" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus" ; Times: 1
+	Query: "trichechidae vntype:specimen" ; Times: 9
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "&#34;Didelphis marsupialis&#34; mappable:1" ; Times: 4
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Trichechus manatus " ; Times: 2
+	Query: "Vulpes lagopus mappable:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "Orcinus orca " ; Times: 2
+	Query: "cynocephalidae" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "&#34;Pongo pygmaeus&#34; mappable:1" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "genus:peromyscus" ; Times: 5
+	Query: "dermoptera" ; Times: 39
+	Query: "cetacean" ; Times: 2
+	Query: "Lagenorhynchus obliquidens " ; Times: 2
+	Query: "cervus nippon" ; Times: 2
+	Query: "dasypodidae mappable:1" ; Times: 3
+	Query: "genus:mus stateprovince:&#34;british columbia&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "14014" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "neofelis" ; Times: 2
+	Query: "dipodomys" ; Times: 3
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 28
+	Query: "bison skin" ; Times: 3
+	Query: "bos javanicus" ; Times: 3
+	Query: "Sirenia mappable:1" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 18
+	Query: "sorex ornatus baja california" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "(Didelphis virginiana) mappable:1" ; Times: 5
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "&#34;didelphis&#34; &#34;virginiana&#34; mappable:1" ; Times: 6
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "Globicephala macrorhynchus " ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 16
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "class:MAMMALIA locality:San Luis" ; Times: 1
+	Query: "dasypus novemcinctus class:Mammalia continent:North America mappable:1" ; Times: 3
+	Query: "genus:heliosciurus institutioncode:CAS" ; Times: 1
+	Query: "Sylvilagus cunicularius" ; Times: 2
+	Query: "dasypus novemcinctus mappable:1" ; Times: 26
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34;" ; Times: 2
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "bos javanicus continent:asia" ; Times: 1
+	Query: "apodemus agrarius" ; Times: 1
+	Query: "Cervus elaphus nannodes" ; Times: 4
+	Query: "&#34;Myotis sodalis&#34;" ; Times: 1
+	Query: "giraffa" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 6
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus" ; Times: 1
+	Query: "specificepithet:gambianus genus:heliosciurus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 3
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "&#34;Didelphis&#34; &#34;virginiana&#34; mappable:1" ; Times: 5
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "Phocoena spinipinnis " ; Times: 2
+	Query: "vntype:specimen genus:Octodon" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CAS:MAM:21227&#34;" ; Times: 4
+	Query: "specificepithet:bairdii genus:Tapirus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "Dasypodidae mappable:1" ; Times: 2
+	Query: "&#34;panthera onca&#34; mappable:1" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "(dasypus) mappable:1" ; Times: 2
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Canis Familiaris mappable:1" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CAS:MAM:26404&#34;" ; Times: 4
+	Query: "(&#34;Didelphis virginiana&#34;) mappable:1" ; Times: 1
+	Query: "(Cynocephalidae) mappable:1" ; Times: 1
+	Query: "specificepithet:rutilus genus:xerus country:&#34;kenya&#34;" ; Times: 1
+	Query: "&#34;orycteropus afer&#34; mappable:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Ototylomys phyllotis" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "Giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34;" ; Times: 7
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "howelli" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "Choloepus hoffmanni mappable:1" ; Times: 1
+	Query: "(Dasypus Novemcinctus) mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "captive" ; Times: 1
+	Query: "elephant shrew mappable:1" ; Times: 1
+	Query: "(&#34;Dasypus novemcinctus&#34;) mappable:1" ; Times: 1
+	Query: "&#34;Loxodonta africana&#34; mappable:1" ; Times: 1
+	Query: "Panthera pardus orientalis" ; Times: 2
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "naemorhedus caudatus continent:asia" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Balaenoptera musculus " ; Times: 2
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "didelphis virginiana class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;OKLAHOMA&#34;" ; Times: 1
+	Query: "Equus caballus przewalskii" ; Times: 2
+	Query: "notiosorex" ; Times: 1
+	Query: "class:MAMMALIA locality:San Luis Potosi" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "&#34;Ursus maritimus&#34; mappable:1" ; Times: 3
+	Query: "Panthera Leo mappable:1" ; Times: 1
+	Query: "&#34;DASYPUS NOVEMCINCTUS&#34; mappable:1" ; Times: 2
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "Macroscelidea mappable:1" ; Times: 1
+	Query: "specificepithet:guereza genus:colobus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "Trichechus inunguis " ; Times: 2
+	Query: "Centurio senex" ; Times: 1
+	Query: "Stenella longirostris " ; Times: 2
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 6
+	Query: "vntype:specimen specificepithet:brasiliensis genus:tadarida" ; Times: 1
+	Query: "didelphis virginiana mappable:1" ; Times: 27
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 3
+	Query: "specificepithet:americana genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Didelphimorphia" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(&#34;dasypus novemcinctus&#34;) mappable:1" ; Times: 7
+	Query: "&#34;PANTHERA tigriS&#34; mappable:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 2
+	Query: "Ammospermophilus nelsoni" ; Times: 7
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "&#34;Vulpes macrotis&#34; mappable:1" ; Times: 1
+	Query: "(didelphis virginiana) mappable:1" ; Times: 4
+	Query: "Alces alces alces mappable:1" ; Times: 1
+	Query: "(caracal caracal)" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "&#34;Orcinus&#34; &#34;orca&#34; mappable:1" ; Times: 1
+	Query: "Phocoenoides dalli " ; Times: 2
+	Query: "Alces alces americana" ; Times: 4
+	Query: "Pecari tajacu" ; Times: 4
+	Query: "Myotis californicus" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34;" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:CAS:MAM:26406&#34;" ; Times: 4
+	Query: "Halichoerus grypus" ; Times: 11
+	Query: "Procyon lotor mappable:1" ; Times: 1
+	Query: "diceros" ; Times: 1
+	Query: "CAS 2179" ; Times: 1
+	Query: "(dasypus novemcinctus) mappable:1" ; Times: 4
+	Query: "Pteropus griseus" ; Times: 5
+	Query: "&#34;Panthera leo&#34; mappable:1" ; Times: 4
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Potos flavus" ; Times: 2
+	Query: "taxidea taxus" ; Times: 5
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "darwini ecuador" ; Times: 1
+	Query: "&#34;Meles meles&#34; mappable:1" ; Times: 1
+	Query: "pinniped" ; Times: 1
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "Opossum mappable:1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "ursus arctos" ; Times: 2
+	Query: "Dipodomys microps" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 2
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "(Erethizon dorsatum) mappable:1" ; Times: 5
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 10
+	Query: "Alces alces mappable:1" ; Times: 3
+	Query: "Phocoena phocoena " ; Times: 3
+	Query: "Loxodonta africana africana mappable:1" ; Times: 6
+	Query: "Dasypodidae" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Sorex ornatus baja california" ; Times: 1
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "Diceros bicornis institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys" ; Times: 1
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "Zalophus californianus " ; Times: 2
+	Query: "hybrid" ; Times: 1
+	Query: "(panthera pardus orientalis)" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Mam" ; Times: 2
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 6
+	Query: "didelphis mappable:1" ; Times: 2
+	Query: "specificepithet:bairdii genus:tapirus country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "tupaia" ; Times: 1
+	Query: "Arizona wickenburg" ; Times: 2
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "(Erethizon Dorsatum) mappable:1" ; Times: 3
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Odobenus rosmarus " ; Times: 2
+	Query: "equus" ; Times: 1
+	Query: "(&#34;dermoptera&#34;) mappable:1" ; Times: 1
+	Query: "genus:canis latrans" ; Times: 4
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Sotalia fluviatilis " ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 4
+	Query: "&#34;vulpes vulpes&#34; vntype:specimen continent:North America hasmass:1" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis institutioncode:CAS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 367 (out of 1398 download events in this period)
+Total number of records downloaded: 18347
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Italy ; Times: 23
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 314
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 10
+	Date: 2018-01-18 ; Times: 12
+	Date: 2018-01-31 ; Times: 21
+	Date: 2018-01-30 ; Times: 33
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-24 ; Times: 39
+	Date: 2018-01-25 ; Times: 37
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 4
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 35
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 6
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 13
+	Date: 2018-01-21 ; Times: 5
+	Date: 2018-01-22 ; Times: 29
+	Date: 2018-01-23 ; Times: 88
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "panthera pardus continent:asia" ; Times: 1
+	Query: "macaca mulatta continent:asia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "(Cynocephalidae) mappable:1" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "order:Dasyuromorphia" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "panthera tigris continent:asia" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Nevada&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:balaenoptera" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "class:MAMMALIA locality:San Luis Potosi" ; Times: 1
+	Query: "muntiacus muntjak continent:asia" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Sumatra class:Mammalia" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "vulpes macrotis institutioncode:CAS" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "hippopotamus amphibius mappable:1" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "naemorhedus caudatus continent:asia" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "Myotis sodalis mappable:1" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "nycticebus coucang continent:asia" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "lama glama" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "sus scrofa continent:asia" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "genus:Canis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Dipodomys nelsoni" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "ursus thibetanus continent:asia" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "family:Cricetidae order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "macaca nemestrina continent:asia" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Lepus alleni" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Rodentia" ; Times: 1
+	Query: "bos javanicus continent:asia" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+
+
+End of report.
