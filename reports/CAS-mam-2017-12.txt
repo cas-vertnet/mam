@@ -1,0 +1,530 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 548
+Number of records retrieved in searches: 7380
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 8
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 20
+	Country: France ; Times: 3
+	Country: United States ; Times: 444
+	Country: Unknown ; Times: 28
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Peru ; Times: 2
+	Country: Gambia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 4
+	Date: 2017-12-31 ; Times: 22
+	Date: 2017-12-16 ; Times: 7
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 26
+	Date: 2017-12-15 ; Times: 84
+	Date: 2017-12-12 ; Times: 30
+	Date: 2017-12-13 ; Times: 16
+	Date: 2017-12-10 ; Times: 5
+	Date: 2017-12-11 ; Times: 9
+	Date: 2017-12-18 ; Times: 20
+	Date: 2017-12-19 ; Times: 18
+	Date: 2017-12-29 ; Times: 8
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 24
+	Date: 2017-12-26 ; Times: 40
+	Date: 2017-12-25 ; Times: 5
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 5
+	Date: 2017-12-22 ; Times: 8
+	Date: 2017-12-21 ; Times: 9
+	Date: 2017-12-20 ; Times: 9
+	Date: 2017-12-05 ; Times: 35
+	Date: 2017-12-04 ; Times: 56
+	Date: 2017-12-07 ; Times: 18
+	Date: 2017-12-06 ; Times: 22
+	Date: 2017-12-01 ; Times: 12
+	Date: 2017-12-03 ; Times: 20
+	Date: 2017-12-02 ; Times: 6
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "bos grunniens" ; Times: 2
+	Query: "catalognumber:12723 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:12625 institutioncode:CAS" ; Times: 1
+	Query: "peromyscus californicus catalognumber:22045 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Genoa" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "monodelphis" ; Times: 2
+	Query: "catalognumber:28447 institutioncode:CAS" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "Jacksonville Zoo" ; Times: 2
+	Query: "catalognumber:935 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:21999 institutioncode:CAS" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:12673 institutioncode:CAS" ; Times: 1
+	Query: "Myotis levis" ; Times: 7
+	Query: "mammal" ; Times: 1
+	Query: "class:mammalia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Melanurus" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "catalognumber:12724 institutioncode:CAS" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 2
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 1
+	Query: "catalognumber:7933 institutioncode:CAS" ; Times: 2
+	Query: "genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:12600 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:12624 institutioncode:CAS" ; Times: 1
+	Query: "CAS 10311" ; Times: 2
+	Query: "11682" ; Times: 1
+	Query: "Sorex haydeni" ; Times: 1
+	Query: "ochotonidae skull" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;coahuila&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "catalognumber:12671 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:formosus family:Heteromyidae county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "microdipodops" ; Times: 1
+	Query: "panthera tigris" ; Times: 8
+	Query: "catalognumber:22890 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Homo" ; Times: 2
+	Query: "Microtus townsendii" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "peromyscus californicus catalognumber:21967 institutioncode:CAS" ; Times: 2
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Farallon Zalophus" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Perognathus" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; country:&#34;USA&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "peromyscus californicus catalognumber:22000 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:908 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen county:&#34;Contra Costa&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "family:Phocidae" ; Times: 1
+	Query: "catalognumber:12584 institutioncode:CAS" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "catalognumber:1743 institutioncode:CAS" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "specificepithet:adustus genus:canis country:&#34;kenya&#34; institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen genus:Canis continent:Asia" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "catalognumber:12676 institutioncode:CAS" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Farallon" ; Times: 1
+	Query: "neotamias minimus mappable:1" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nimule" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Moose" ; Times: 1
+	Query: "catalognumber:12619 institutioncode:CAS" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1971 year &lt;= 1990" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "List" ; Times: 1
+	Query: "catalognumber:12675 institutioncode:CAS" ; Times: 1
+	Query: "Deer" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Colombia&#34;" ; Times: 1
+	Query: "rottweiler" ; Times: 1
+	Query: "canis latrans county:&#34;san francisco&#34;" ; Times: 1
+	Query: "catalognumber:1260 institutioncode:CAS" ; Times: 1
+	Query: "Minnesota" ; Times: 1
+	Query: "stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "catalognumber:934 institutioncode:CAS" ; Times: 1
+	Query: "peromyscus californicus catalognumber:22003 institutioncode:CAS" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "sus scrofa" ; Times: 7
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;san francisco&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:933 institutioncode:CAS" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Dipodomys" ; Times: 2
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 3
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "catalognumber:926 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:22005 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:12665 institutioncode:CAS" ; Times: 1
+	Query: "pepperwood preserve" ; Times: 8
+	Query: "catalognumber:12623 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:21994 institutioncode:CAS" ; Times: 1
+	Query: "peromyscus californicus catalognumber:21993 institutioncode:CAS" ; Times: 1
+	Query: "bison" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Peromyscus" ; Times: 2
+	Query: "22704" ; Times: 1
+	Query: "mustela specificepithet:(nivalis OR erminea)" ; Times: 6
+	Query: "Sorex ornatus juncensis" ; Times: 2
+	Query: "USA United States specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "catalognumber:12662 institutioncode:CAS" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;Riverside&#34;" ; Times: 4
+	Query: "Hawk" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "timber wolf" ; Times: 3
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "catalognumber:12583 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:12659 institutioncode:CAS" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:21993 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:12670 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:adustus genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida country:&#34;USA&#34;" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 1
+	Query: "genus:poecilogale country:&#34;kenya&#34;" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "catalognumber:12664 institutioncode:CAS" ; Times: 1
+	Query: "Lepus Townsendii" ; Times: 1
+	Query: "locality:Pepperwood Preserve" ; Times: 2
+	Query: "vntype:specimen specificepithet:bottae genus:Thomomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Neofelis institutioncode:CAS" ; Times: 3
+	Query: "Macroscelides" ; Times: 1
+	Query: "enterprise Florida" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 3
+	Query: "specificepithet:brasiliensis genus:Tadarida (USA United States America)" ; Times: 3
+	Query: "vntype:specimen specificepithet:bottae genus:Thomomys family:Geomyidae country:&#34;USA&#34; year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 3
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 2
+	Query: "29809" ; Times: 1
+	Query: "neotamias amoenus mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 3
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "baculum cetacea" ; Times: 1
+	Query: "catalognumber:12721 institutioncode:CAS" ; Times: 1
+	Query: "minnesota" ; Times: 8
+	Query: "cougar" ; Times: 2
+	Query: "Ursus americanus" ; Times: 2
+	Query: "catalognumber:642" ; Times: 1
+	Query: "bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:bottae genus:Thomomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1975 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "neotamias amoenus" ; Times: 2
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "catalognumber:12725 institutioncode:CAS" ; Times: 1
+	Query: "Thomomys" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34; institutioncode:CAS" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "catalognumber:12626 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:12672 institutioncode:CAS" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "university of Michigan" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "blarina brevicauda" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "catalognumber:12628 institutioncode:CAS" ; Times: 3
+	Query: "catalognumber:12656 institutioncode:CAS" ; Times: 1
+	Query: "sengi" ; Times: 1
+	Query: "catalognumber:12661 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:22017 institutioncode:CAS" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "North Eastern united states" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "genus:Haeromys" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos country:&#34;kenya&#34;" ; Times: 1
+	Query: "Neotoma" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "genus:Micoureus country:&#34;Panama&#34;" ; Times: 3
+	Query: "recordedby:Letty" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "vulpes macrotis mutica" ; Times: 1
+	Query: "peromyscus difficilis" ; Times: 1
+	Query: "devil" ; Times: 1
+	Query: "catalognumber:12666 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "catalognumber:12567 institutioncode:CAS" ; Times: 3
+	Query: "stateprovince:&#34;yukon&#34; institutioncode:CAS" ; Times: 1
+	Query: "Zapus" ; Times: 2
+	Query: "microdipodops megacephalus" ; Times: 2
+	Query: "sorex monticolus" ; Times: 2
+	Query: "stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;zacatecas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "mungo mungos" ; Times: 2
+	Query: "Odobenus vntype:specimen" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "catalognumber:9345 institutioncode:CAS" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR florida)" ; Times: 27
+	Query: "tadarida" ; Times: 1
+	Query: "catalognumber:22007 institutioncode:CAS" ; Times: 1
+	Query: "tupaia glis" ; Times: 1
+	Query: "catalognumber:12618 institutioncode:CAS" ; Times: 1
+	Query: "vj" ; Times: 1
+	Query: "specificepithet:microps family:Heteromyidae county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus" ; Times: 2
+	Query: "catalognumber:12620 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:19893 institutioncode:CAS" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 14
+	Query: "lutra canadensis" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "neotamias minimus" ; Times: 1
+	Query: "catalognumber:12658 institutioncode:CAS" ; Times: 1
+	Query: "peromyscus californicus catalognumber:21976 institutioncode:CAS" ; Times: 1
+	Query: "genus:hyaena country:&#34;kenya&#34; institutioncode:CAS" ; Times: 2
+	Query: "Enhydra lutris vntype:specimen" ; Times: 1
+	Query: "county:&#34;san diego&#34; recordedby:marsh" ; Times: 1
+	Query: "catalognumber:12674 institutioncode:CAS" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1951 year &lt;= 2017" ; Times: 1
+	Query: "Canis lupus vntype:specimen continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "ochotonidae" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "catalognumber:19535 institutioncode:CAS" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "catalognumber:21998 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:7932 institutioncode:CAS" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "hastissue:1 Miniopterus" ; Times: 1
+	Query: "catalognumber:12669 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:905 institutioncode:CAS" ; Times: 1
+	Query: "mosquito" ; Times: 1
+	Query: "peromyscus californicus catalognumber:22024 institutioncode:CAS" ; Times: 1
+	Query: "Locality county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 3
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:22010 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:bottae genus:Thomomys family:Geomyidae country:&#34;USA&#34; year &gt;= 2000 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 17
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "neotamias ruficaudus mappable:1" ; Times: 1
+	Query: "catalognumber:12617 institutioncode:CAS" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "notiosorex" ; Times: 2
+	Query: "dipodomys heermanni" ; Times: 2
+	Query: "catalognumber:12660 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:montanus genus:microtus" ; Times: 1
+	Query: "suidae" ; Times: 1
+	Query: "catalognumber:12627 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:22000 institutioncode:CAS" ; Times: 1
+	Query: "Ben East" ; Times: 1
+	Query: "Ursus arctos" ; Times: 5
+	Query: "bovidae" ; Times: 1
+	Query: "catalognumber:22009 institutioncode:CAS" ; Times: 1
+	Query: "macroscelides" ; Times: 3
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Bullfrog" ; Times: 1
+	Query: "specificepithet:ega order:Chiroptera stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:19894 institutioncode:CAS" ; Times: 1
+	Query: "county:&#34;Orange&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 3
+	Query: "catalognumber:12581 institutioncode:CAS" ; Times: 2
+	Query: "catalognumber:12667 institutioncode:CAS" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 3
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "genus:atelerix country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "ursus arctos" ; Times: 6
+	Query: "Chaetodipus" ; Times: 1
+	Query: "lynx" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Delphinus delphis" ; Times: 1
+	Query: "buffo" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 3
+	Query: "catalognumber:12655 institutioncode:CAS" ; Times: 1
+	Query: "peromyscus californicus catalognumber:22890 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:12657 institutioncode:CAS" ; Times: 1
+	Query: "Page" ; Times: 1
+	Query: "sorex fumeus" ; Times: 3
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "buffalo" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 674 download events in this period)
+Total number of records downloaded: 6016
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 77
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-27 ; Times: 11
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-26 ; Times: 28
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-19 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "neotamias minimus mappable:1" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes county:&#34;kern&#34;" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+	Query: "sorex vagrans" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "neotamias ruficaudus mappable:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "vulpes macrotis mutica" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "chipmunk" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sorex ugyunak" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bottae genus:Thomomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "neotamias amoenus" ; Times: 5
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bottae genus:Thomomys family:Geomyidae country:&#34;USA&#34; year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "hastissue:1 Miniopterus" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
