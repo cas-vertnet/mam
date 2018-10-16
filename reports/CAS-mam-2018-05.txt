@@ -1,0 +1,422 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 491
+Number of records retrieved in searches: 6690
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 8
+	Country: Italy ; Times: 48
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 55
+	Country: Unknown ; Times: 28
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Norway ; Times: 4
+	Country: Austria ; Times: 1
+	Country: China ; Times: 12
+	Country: Peru ; Times: 1
+	Country: Germany ; Times: 5
+	Country: United States ; Times: 301
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 13
+	Date: 2018-05-29 ; Times: 32
+	Date: 2018-05-20 ; Times: 12
+	Date: 2018-05-21 ; Times: 14
+	Date: 2018-05-22 ; Times: 20
+	Date: 2018-05-23 ; Times: 12
+	Date: 2018-05-24 ; Times: 9
+	Date: 2018-05-25 ; Times: 7
+	Date: 2018-05-26 ; Times: 6
+	Date: 2018-05-27 ; Times: 7
+	Date: 2018-05-06 ; Times: 9
+	Date: 2018-05-07 ; Times: 26
+	Date: 2018-05-04 ; Times: 35
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 18
+	Date: 2018-05-03 ; Times: 19
+	Date: 2018-05-01 ; Times: 17
+	Date: 2018-05-08 ; Times: 21
+	Date: 2018-05-09 ; Times: 20
+	Date: 2018-05-31 ; Times: 8
+	Date: 2018-05-30 ; Times: 10
+	Date: 2018-05-15 ; Times: 14
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 25
+	Date: 2018-05-16 ; Times: 41
+	Date: 2018-05-11 ; Times: 23
+	Date: 2018-05-10 ; Times: 11
+	Date: 2018-05-13 ; Times: 9
+	Date: 2018-05-12 ; Times: 7
+	Date: 2018-05-19 ; Times: 13
+	Date: 2018-05-18 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:ano nuevo point area institutioncode:CAS" ; Times: 1
+	Query: "locality:fort funston institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "Striped bass" ; Times: 1
+	Query: "specificepithet:eloquens genus:Rhinolophus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Island Goldman" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "class:mammalia locality:&#34;gazos creek&#34; institutioncode:CAS" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:CAS" ; Times: 1
+	Query: "panther" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Colobus guereza" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "locality:agate beach institutioncode:CAS" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "18002" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 5
+	Query: "taxonomy" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 6
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909 institutioncode:CAS" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "Canis latrans" ; Times: 2
+	Query: "class:mammalia country:&#34;australia&#34; institutioncode:CAS" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "amanita" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Enhydra (4874) institutioncode:CAS" ; Times: 2
+	Query: "equus quagga" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:CAS" ; Times: 1
+	Query: "vntype:specimen genus:Canis hastissue:1" ; Times: 1
+	Query: "Microtus californicus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 6
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "vntype:specimen (skeleton skull)" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "rhinolophus fumigatus" ; Times: 1
+	Query: "distance(location,geopoint(38.9483259790001,-85.420860553))&lt;13539" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Leptonycteris curasoae" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:CAS" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 13
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 2000 year &lt;= 2009" ; Times: 2
+	Query: "brevicaudus" ; Times: 1
+	Query: "howelli" ; Times: 1
+	Query: "Dipodomys Washoe county" ; Times: 3
+	Query: "E. Goldman Island" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:CAS hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 2000 year &lt;= 2009 institutioncode:CAS" ; Times: 1
+	Query: "10048" ; Times: 1
+	Query: "locality:steel reef institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "distance(location,geopoint(44.0488869180001,-91.5628079289999))&lt;6072" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "bullfrog" ; Times: 3
+	Query: "mustela nivalis" ; Times: 1
+	Query: "locality:sharp park beach institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "beetle" ; Times: 1
+	Query: "genus:molossus locality:sola stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Sylvilagus nuttallii" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Enhydra recordnumber:4061-03 institutioncode:CAS" ; Times: 1
+	Query: "gazella subgutturosa" ; Times: 3
+	Query: "Aplodontia rufa" ; Times: 4
+	Query: "mummy" ; Times: 6
+	Query: "class:mammalia locality:&#34;golden gate national recreation area&#34; institutioncode:CAS" ; Times: 1
+	Query: "tridecemlineatus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "locality:&#34;ano nuevo point area&#34; institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Sigmodon leucotis" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "Cetacea" ; Times: 2
+	Query: "class:mammalia locality:&#34;ano nuevo island&#34; institutioncode:CAS" ; Times: 1
+	Query: "class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(44.0051823975045,-91.5089936295))&lt;7643" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "distance(location,geopoint(44.0488918737493,-91.5628435737312))&lt;20113" ; Times: 1
+	Query: "class:mammalia locality:&#34;waddell beach&#34; institutioncode:CAS" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "country:&#34;Egypt&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "bubalus mindorensis" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "genus:microtus" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 3
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "order:Chiroptera hastypestatus:1" ; Times: 2
+	Query: "specificepithet:capensis genus:Lepus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Lepus brachyurus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1890 year &lt;= 1899 institutioncode:CAS" ; Times: 1
+	Query: "(Microtus)" ; Times: 3
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Phoca hispida" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:artibeus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "MAM 39" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; country:&#34;USA&#34;" ; Times: 3
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "1348" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "helleri" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "coyote hills" ; Times: 2
+	Query: "Euphractus sexcinctus" ; Times: 4
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "class:mammalia locality:&#34;rodeo beach&#34; institutioncode:CAS" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 10
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Clark county Stephensi" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "class:mammalia catalognumber:26597 institutioncode:CAS" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Brachylagus" ; Times: 1
+	Query: "locality:montara state beach institutioncode:CAS" ; Times: 1
+	Query: "Procyon lotor" ; Times: 4
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1910 year &lt;= 1919 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:concolor genus:puma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Bassariscus" ; Times: 2
+	Query: "&#34;chatham island&#34;" ; Times: 1
+	Query: "SS 822" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 6
+	Query: "3779" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus mappable:1 hastissue:1" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 6
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "locality:stinson beach institutioncode:CAS" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:CAS" ; Times: 1
+	Query: "scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:getulus genus:Atlantoxerus mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(42.2762592793943,-83.2359649961864))&lt;5242" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "dipodomys ornatus" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Brimley" ; Times: 1
+	Query: "cm 3257" ; Times: 1
+	Query: "neotoma mexicana" ; Times: 4
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "Myotis tricolor" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "specificepithet:getulus genus:Atlantoxerus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "(Perognathus longimembris )" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;TRinity&#34;" ; Times: 1
+	Query: "locality:muir beach institutioncode:CAS" ; Times: 1
+	Query: "distance(location,geopoint(44.824335823,-93.2719965115))&lt;6844" ; Times: 2
+	Query: "Ammotragus lervia mappable:1" ; Times: 1
+	Query: "class:mammalia locality:&#34;Ano Nuevo State Reserve, Point Ano Nuevo&#34; institutioncode:CAS" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 2
+	Query: "specificepithet:vitulina genus:Phoca institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "&#34;charles island&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "SS 8-22" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "(Microtus )" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "vntype:specimen (saiga tatarica skeleton skull)" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "distance(location,geopoint(43.9302007876938,-93.1386640465672))&lt;22744" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1910 year &lt;= 1919 institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "952-03 institutioncode:CAS" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "(Microtus ) hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "locality:agate beach county:&#34;marin co&#34; institutioncode:CAS" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR florida)" ; Times: 36
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "Lasiurus borealis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:inermis genus:Hydropotes mappable:1" ; Times: 6
+	Query: "24432" ; Times: 1
+	Query: "bos gaurus" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "specificepithet:irroratus hastissue:1" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "Reithrodontomys" ; Times: 1
+	Query: "SS8-22" ; Times: 2
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "vntype:specimen (Microtus ) hastissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 2
+	Query: "genus:Enhydra" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 2
+	Query: "specificepithet:irroratus" ; Times: 1
+	Query: "9219" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "locality:brighton ave institutioncode:CAS" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;alpine&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:CAS" ; Times: 1
+	Query: "blue whale" ; Times: 2
+	Query: "luteolus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "liomys irroratus" ; Times: 3
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 2
+	Query: "Microtus californicus" ; Times: 1
+	Query: "locality:yellowstone" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "specificepithet:familiaris genus:Canis hastissue:1" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1178 download events in this period)
+Total number of records downloaded: 4361
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "class:Mammalia country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus hastissue:1" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 3
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Macropus robustus" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Sigmodon leucotis" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "dipodomys ornatus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:vitulina genus:Phoca institutioncode:CAS" ; Times: 1
+
+
+End of report.
