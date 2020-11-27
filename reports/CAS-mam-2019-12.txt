@@ -1,0 +1,323 @@
+Report for Institution Code CAS, Resource mam
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 296
+Number of records retrieved in searches: 4746
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 208
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Uruguay ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Tanzania ; Times: 1
+	Country: Nepal ; Times: 5
+	Country: Mexico ; Times: 9
+	Country: Mongolia ; Times: 2
+	Country: France ; Times: 33
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 14
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-27 ; Times: 10
+	Date: 2019-12-26 ; Times: 5
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-20 ; Times: 9
+	Date: 2019-12-23 ; Times: 4
+	Date: 2019-12-22 ; Times: 19
+	Date: 2019-12-29 ; Times: 4
+	Date: 2019-12-28 ; Times: 7
+	Date: 2019-12-18 ; Times: 12
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 12
+	Date: 2019-12-11 ; Times: 16
+	Date: 2019-12-12 ; Times: 6
+	Date: 2019-12-13 ; Times: 16
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 5
+	Date: 2019-12-17 ; Times: 5
+	Date: 2019-12-30 ; Times: 3
+	Date: 2019-12-31 ; Times: 7
+	Date: 2019-12-09 ; Times: 22
+	Date: 2019-12-08 ; Times: 9
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-06 ; Times: 13
+	Date: 2019-12-05 ; Times: 15
+	Date: 2019-12-04 ; Times: 46
+	Date: 2019-12-03 ; Times: 9
+	Date: 2019-12-02 ; Times: 12
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "Sciurus carolinensis Connecticut" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; recordedby:campbell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus hastissue:1" ; Times: 8
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Canis family:Canidae continent:&#34;North America&#34;" ; Times: 1
+	Query: "specificepithet:boylii county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:CAS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Artibeus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "myotis volans" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "dipodomys stephensi" ; Times: 2
+	Query: "bulleri country:&#34;mexico&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 13
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Sus scrofa domesticus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "Heterocephalus glaber" ; Times: 4
+	Query: "spilogale putorius" ; Times: 2
+	Query: "Leptailurus serval" ; Times: 2
+	Query: "18569" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:femorosaccus order:Chiroptera" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "preparations:skin hasmass:1" ; Times: 1
+	Query: "genus:canis family:canidae order:carnivora continent:&#34;North America&#34;" ; Times: 1
+	Query: "marsh dulzura california" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "cas 21848" ; Times: 1
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 3
+	Query: "Myotis Veracruz" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "specificepithet:lepida genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "perognathus parvus" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:Hyaena genus:Hyaena" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Eagle valley" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 2
+	Query: "32093" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "distance(location,geopoint(33.7157119485998,-116.49993779216328))&lt;6602" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "L.R. Wolfe" ; Times: 10
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "county:&#34;calaveras&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "brucei" ; Times: 2
+	Query: "23496" ; Times: 1
+	Query: "artiodactyla" ; Times: 2
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ochotona specificepithet:(princeps OR collaris)" ; Times: 1
+	Query: "Peromyscus leucopus Minnesota" ; Times: 1
+	Query: "orizaba" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Riverside&#34;" ; Times: 2
+	Query: "recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:canis continent:&#34;North America&#34;" ; Times: 1
+	Query: "genus:eumops county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "specificepithet:californicus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CAS" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "addax" ; Times: 1
+	Query: "Hyaena hyaena" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "Head hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018 month &lt;= 12 enddayofyear &lt;= 8" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 5
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 7
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:EUMETOPIAS stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "SERVAL" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 7
+	Query: "specificepithet:ornatus genus:sorex county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Mammalia continent:Africa" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "san juan del rio" ; Times: 1
+	Query: "whale shark" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "genus:Chaetodipus locality:Noria de Angeles institutioncode:CAS" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "13208" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus institutioncode:CAS" ; Times: 1
+	Query: "genus:Hyaena" ; Times: 2
+	Query: "genus:canis family:canidae continent:&#34;North America&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Arctocephalus galapagoensis " ; Times: 1
+	Query: "specificepithet:carolinensis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 2
+	Query: "genus:ailurus" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "MVZ" ; Times: 1
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "genus:Geomys basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:lepus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "homo sapiens" ; Times: 4
+	Query: "genus:Bassariscus" ; Times: 3
+	Query: "Steno bredanensis mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Hyaena" ; Times: 3
+	Query: "family:Cricetidae" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR florida)" ; Times: 1
+	Query: "TOLYPEUTES" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Balaenoptera edeni  mappable:1" ; Times: 3
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 2
+	Query: "lepus alleni" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "franklinii franklinii" ; Times: 1
+	Query: "uruguay" ; Times: 2
+	Query: "Mia" ; Times: 1
+	Query: "lepus tolai" ; Times: 2
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "genus:tadarida county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 2
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "241401" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus" ; Times: 2
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Mammalia Colombia" ; Times: 1
+	Query: "hyoid" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma" ; Times: 1
+	Query: "Right Whale" ; Times: 2
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 5
+	Query: "(Peromyscus ) hastissue:1" ; Times: 1
+	Query: "cas 7465" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CAS" ; Times: 1
+	Query: "Valle Nacional Oaxaca" ; Times: 1
+	Query: "axis" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "dingo cas" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "puma" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 2
+	Query: "Trichechus manatus mappable:1" ; Times: 2
+	Query: "rattus mindanensis" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys darwini " ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 4
+	Query: "vntype:specimen family:Cricetidae" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Redunca+redunca" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "right whale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 596 download events in this period)
+Total number of records downloaded: 1096
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Mongolia ; Times: 1
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-04 ; Times: 6
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-13 ; Times: 4
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus carolinensis Connecticut" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; recordedby:campbell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lepus tolai" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "san francisco" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Oligoryzomys" ; Times: 1
+	Query: "del puerto canyon" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 3
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Valle Nacional Oaxaca" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
